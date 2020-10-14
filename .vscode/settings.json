@@ -1,0 +1,8 @@
+{
+    "git.ignoreLimitWarning": true,
+    "files.associations": {
+        "string": "cpp",
+        "map": "cpp",
+        "fstream": "cpp"
+    }
+}
